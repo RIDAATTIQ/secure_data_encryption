@@ -1,0 +1,13 @@
+
+---
+
+## 📦 2. `requirements.txt`
+
+Yeh file aapke project ke dependencies install karne ke liye hoti hai.
+
+**➡️ File name:** `requirements.txt`  
+**➡️ Content:**
+
+```txt
+streamlit
+cryptography
